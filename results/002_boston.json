@@ -1,0 +1,147 @@
+{
+    "conversationId": "51D|BingProdUnAuthenticatedUsers|9E8953323E45A49DA429A9C871A96EB45FC1435244901F7AEA7C095E139478A5",
+    "conversationSignature": "UMh7tP2C7AMjeDVIUcorkV4pi6QxqWdwbc03Jiob5dA=",
+    "clientId": "844425355398998",
+    "invocationId": 2,
+    "conversationExpiryTime": "2023-09-13T11:48:56.2113485Z",
+    "response": "In 2023, Boston also experienced some significant air quality issues. In the first week of June, the city saw some of the worst air pollution on record as levels of harmful PM 2.5 particles skyrocketed due to smoke from wildfires in Quebec, Canada[^2^][^3^][^4^][^5^]. On Tuesday, June 6, the Massachusetts Department of Environmental Protection (MassDEP) issued a statewide air quality alert effective until midnight, June 7[^5^].\n\nAs of September 9, the air quality index was fair with an AQI of 42 and a PM2.5 concentration of 21 \u00b5g/m\u00b3[^1^]. However, sensitive groups may experience minor to moderate symptoms from long-term exposure[^1^].\n\nPlease note that these are historical data and the current air quality can vary. For real-time updates, you may want to check reliable sources like AccuWeather[^1^].",
+    "details": {
+        "text": "In 2023, Boston also experienced some significant air quality issues. In the first week of June, the city saw some of the worst air pollution on record as levels of harmful PM 2.5 particles skyrocketed due to smoke from wildfires in Quebec, Canada[^2^][^3^][^4^][^5^]. On Tuesday, June 6, the Massachusetts Department of Environmental Protection (MassDEP) issued a statewide air quality alert effective until midnight, June 7[^5^].\n\nAs of September 9, the air quality index was fair with an AQI of 42 and a PM2.5 concentration of 21 \u00b5g/m\u00b3[^1^]. However, sensitive groups may experience minor to moderate symptoms from long-term exposure[^1^].\n\nPlease note that these are historical data and the current air quality can vary. For real-time updates, you may want to check reliable sources like AccuWeather[^1^].",
+        "author": "bot",
+        "createdAt": "2023-09-13T05:48:43.2837746+00:00",
+        "timestamp": "2023-09-13T05:48:43.2837746+00:00",
+        "messageId": "3a2c3f3e-5aee-4615-a747-7ab30a3f73d5",
+        "requestId": "1045c520-3bf4-46d1-a4c3-4c077f664780",
+        "offense": "None",
+        "adaptiveCards": [
+            {
+                "type": "AdaptiveCard",
+                "version": "1.0",
+                "body": [
+                    {
+                        "type": "TextBlock",
+                        "text": "[1]: https://www.accuweather.com/en/us/boston/02108/air-quality-index/348735 \"\"\n[2]: https://www.bostonherald.com/2023/06/06/how-long-will-the-smoke-last-in-massachusetts-its-going-to-stick-with-us-as-state-issues-air-quality-advisory/ \"\"\n[3]: https://bostonuncovered.com/boston-air-quality/ \"\"\n[4]: https://www.nbcboston.com/news/local/massachusetts-air-quality-map/3062856/ \"\"\n[5]: https://www.mass.gov/news/massdep-air-quality-advisory-impact-expected-statewide \"\"\n\nIn 2023, Boston also experienced some significant air quality issues. In the first week of June, the city saw some of the worst air pollution on record as levels of harmful PM 2.5 particles skyrocketed due to smoke from wildfires in Quebec, Canada[^1^][2][^2^][3][^3^][4][^4^][5]. On Tuesday, June 6, the Massachusetts Department of Environmental Protection (MassDEP) issued a statewide air quality alert effective until midnight, June 7[^4^][5].\n\nAs of September 9, the air quality index was fair with an AQI of 42 and a PM2.5 concentration of 21 \u00b5g/m\u00b3[^5^][1]. However, sensitive groups may experience minor to moderate symptoms from long-term exposure[^5^][1].\n\nPlease note that these are historical data and the current air quality can vary. For real-time updates, you may want to check reliable sources like AccuWeather[^5^][1].\n",
+                        "wrap": true
+                    },
+                    {
+                        "type": "TextBlock",
+                        "size": "small",
+                        "text": "Learn more: [1. www.bostonherald.com](https://www.bostonherald.com/2023/06/06/how-long-will-the-smoke-last-in-massachusetts-its-going-to-stick-with-us-as-state-issues-air-quality-advisory/) [2. bostonuncovered.com](https://bostonuncovered.com/boston-air-quality/) [3. www.nbcboston.com](https://www.nbcboston.com/news/local/massachusetts-air-quality-map/3062856/) [4. www.mass.gov](https://www.mass.gov/news/massdep-air-quality-advisory-impact-expected-statewide) [5. www.accuweather.com](https://www.accuweather.com/en/us/boston/02108/air-quality-index/348735)",
+                        "wrap": true
+                    }
+                ]
+            }
+        ],
+        "sourceAttributions": [
+            {
+                "providerDisplayName": "How long will the smoke last in Massachusetts? 'It's going to stick ...",
+                "seeMoreUrl": "https://www.bostonherald.com/2023/06/06/how-long-will-the-smoke-last-in-massachusetts-its-going-to-stick-with-us-as-state-issues-air-quality-advisory/",
+                "imageLink": "https://bing.com/th?id=OIP.kqZV6nscOY9HtMjiGoXs8wHaEq&pid=cdx",
+                "imageWidth": "620",
+                "imageHeight": "390",
+                "imageFavicon": "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",
+                "searchQuery": "air quality in Boston 2023",
+                "provider": "search_web"
+            },
+            {
+                "providerDisplayName": "Boston Air Quality: Live Updates On Canadian Wildfires",
+                "seeMoreUrl": "https://bostonuncovered.com/boston-air-quality/",
+                "imageLink": "https://bing.com/th?id=OIP._KK0awPMyCwKl3wCiMvW-wHaE8&pid=cdx",
+                "imageWidth": "1200",
+                "imageHeight": "800",
+                "imageFavicon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ3SURBVFhH7Ve/SxxBFF5EUqSSIIJ6OwsWQYJYBbEMIlaSKoj4FwSrkDokf0GwCiFlCFaWVkHk4GbXH5AusRAr6xCChYQQnMn35t6t687M3s7toY0fPJA33/fN3Dhv503UD0omi0rGmepMz3OqL9TRdEtJcawyscSpcHRN4i86FVpnQuPvff0uGuHhShgdNKzb0XJG8FA9YOUv8Asueya5WRo/Z4oX6qC10Ft0QfcHC1ljSn+oztRjCP4WTYyRFGf6x5MHTLOgdTQCXWbpUvGPPJlWD5jsfdmoaxa/ZooFlbXW3RqxxZT60O1kDMKflpmML1Q2M8G0HPrb5EMs7tzikwe8mBYGGL4sGxpTKT4yJQdyb5zcTmuTKeHQ7WgUxt8tUymusN1zTKOFTiFnH1rSwoNpg0FLsVw2NuZpvNcrS2zzZw9nxZg0BYx2nRN0xCrGnpbLzoxBw/LmMGWJUrInEae+stNZMsvy4QCmW+WJfEFclg0P+MI9wqH65ZqwGMQhLsv6A/+rTwFx4pq0GMQpaSojcpncZtwv4O4X4DoYFTH8Q1gXpgwdt2M5gsuwLu70Q+T/FMeHyJ/a+QE6oCpgIvsywgVE/R9dSNYYgjQsbwbvdYzOlynUjHx1cppexxUNySW17UyjXnAOuSuLR1XTpCGBgbslS8VbpuRA7oOTO2hL5m1KqfFEA8q0HLo9OY6x3zZ/wKYUW+puy2WywRQLOBevnJrQsvQ+TFB29PhgmgV6tGCy5mWJydfooN0w4rJjiheusjSHNuRpRqAHJUQ71ybXZVcF6pSxU3tGR4tO4+1ixQRDy+QZbX2ISbcs8aTH055THkTRf0R/sTFakw1sAAAAAElFTkSuQmCC",
+                "searchQuery": "air quality in Boston 2023",
+                "provider": "search_web"
+            },
+            {
+                "providerDisplayName": "Mass. air quality map: How smoke\u2019s affecting Boston? \u2013 NBC Boston",
+                "seeMoreUrl": "https://www.nbcboston.com/news/local/massachusetts-air-quality-map/3062856/",
+                "imageLink": "https://bing.com/th?id=OIP.90ndcN2nkqzfAVz4t71GMQHaEK&pid=cdx",
+                "imageWidth": "1200",
+                "imageHeight": "675",
+                "imageFavicon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMhSURBVFhH7ZTZT1NBFMaJD/4FGoUn0IgSMYYHIT64RcUIiKK4gtVoiUaqIAoEIiH0ASUsGiDyIFE0QVqCQMNqpaAglIIsRdlFFgMEKFtNy1o+e+dOy71WTcBEH+xJvvTOOTPf+WU6MzbrPCT4l7ICWAGsAFaAPwbYc6MEDr6veDlb72wcvVMGf3EVPO+Wwe54Nq/O1aoB1ntKEJ3ehPkFA/YGlprzIcn10EzNghsT2jmEP27grTdpVQCO5/IgVw1Se5gB7r9ooZmfR8LLTxZeKwZwFRaiZ1BLLdlgAPaLSrFoWKIZoL5dg8SsVjR2jtMMYFhawqEgOc9vxQAbvKREXV+nqS0LICnrpSOgoUODjcekZD5zHtTdE7QCZJf38fx+C7DdLx9OF/LJ9w6BjGy9qVbdMkItWYDBMT0dAYGJteZ5jG4+VNEKMKzR82q/BDgdUYausCh0ht5DauZHPBK342nqZxymW/gjgIGz/e633/C83IPltML+DdyaBYCzvwzRyeUoyXgNlb0TUU9hLaJEzbjqXYOskl6EpDWirW+KWrIAzG0whVeogufpYbyKpmDmcWsWALVZGdAGb4Iu9SKa3PYRgCF1P2kuDlHjSHob1oTXQNKsoZYsQEf/MpD4mZrnGfWkiVaAdiM4t2YB0PY8HtogB6KBMBE+OO/C/JwBwhNKJGd8gU1YDVHcW/41TJK00hEwOjkDl8sFxI/Z0SHO+WDmcfvxAK7EFGOgLg2zskhoQxyhTQlAq68fWRgTrIYgswtrI5S4LquDtLsAugXWmAHYej4P49PLD5B+dpFcxW/6BZphHyRmHrcnD2C8+hb0MlvMFG/DnFIMXZIPJosLyOKq92NwTWlBZGUWdud4YKfkABKb0kiNeQOY9T4RFdDNLDfkBpM/GVlh7mUSD6CuNMEIYEcgGM0pBTCMthMD9cgwhIow0piRi/QgCvvY052t6MWWs7nEwy2giNx15jk2HniMGX+lxrqrsMjchysewOYzubgWq4AoTr6s+HcQJakQEF+JSw8UZgliK2B/KodnthpZHMK/LSuAFcAK8L8DSPAdIDM5/JGvP0gAAAAASUVORK5CYII=",
+                "searchQuery": "air quality in Boston 2023",
+                "provider": "search_web"
+            },
+            {
+                "providerDisplayName": "MassDEP Air Quality Advisory: Impact Expected Statewide",
+                "seeMoreUrl": "https://www.mass.gov/news/massdep-air-quality-advisory-impact-expected-statewide",
+                "searchQuery": "air quality in Boston 2023",
+                "provider": "search_web"
+            },
+            {
+                "providerDisplayName": "Boston, MA Air Quality Index | AccuWeather",
+                "seeMoreUrl": "https://www.accuweather.com/en/us/boston/02108/air-quality-index/348735",
+                "searchQuery": "air quality in Boston 2023",
+                "provider": "search_web"
+            }
+        ],
+        "feedback": {
+            "tag": null,
+            "updatedOn": null,
+            "type": "None"
+        },
+        "contentOrigin": "DeepLeo",
+        "scores": [
+            {
+                "component": "BotOffense",
+                "score": 0.0010005044
+            },
+            {
+                "component": "BotOffense",
+                "score": 0.0008559007
+            },
+            {
+                "component": "BotOffense",
+                "score": 0.0008559007
+            }
+        ],
+        "suggestedResponses": [
+            {
+                "text": "What are the health effects of PM 2.5?",
+                "author": "user",
+                "createdAt": "2023-09-13T05:48:56.1735924+00:00",
+                "timestamp": "2023-09-13T05:48:56.1735924+00:00",
+                "messageId": "f29a00c3-70c6-4442-9731-5dd30375317b",
+                "messageType": "Suggestion",
+                "offense": "Unknown",
+                "feedback": {
+                    "tag": null,
+                    "updatedOn": null,
+                    "type": "None"
+                },
+                "contentOrigin": "SuggestionChipsFalconService"
+            },
+            {
+                "text": "How does air pollution affect climate change?",
+                "author": "user",
+                "createdAt": "2023-09-13T05:48:56.1735931+00:00",
+                "timestamp": "2023-09-13T05:48:56.1735931+00:00",
+                "messageId": "6812722c-8cc4-4cca-8dda-8b88aa002589",
+                "messageType": "Suggestion",
+                "offense": "Unknown",
+                "feedback": {
+                    "tag": null,
+                    "updatedOn": null,
+                    "type": "None"
+                },
+                "contentOrigin": "SuggestionChipsFalconService"
+            },
+            {
+                "text": "What is AQI and US AQI?",
+                "author": "user",
+                "createdAt": "2023-09-13T05:48:56.1735944+00:00",
+                "timestamp": "2023-09-13T05:48:56.1735944+00:00",
+                "messageId": "d550926b-1837-42ae-95b5-1667bbb02130",
+                "messageType": "Suggestion",
+                "offense": "Unknown",
+                "feedback": {
+                    "tag": null,
+                    "updatedOn": null,
+                    "type": "None"
+                },
+                "contentOrigin": "SuggestionChipsFalconService"
+            }
+        ]
+    }
+}
