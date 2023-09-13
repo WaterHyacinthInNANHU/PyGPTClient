@@ -34,7 +34,7 @@ This is a python client for [node-gpt-api](https://github.com/waylaidwanderer/no
    chatgpt-api
    ```
 
-3. Edit your questions in `gpt_client.py`. Responds will be saved to `results` as json.
+3. Edit your questions in `gpt_client.py`. Responses will be saved to `results` as json files.
 
 	```python
 		# example usage
